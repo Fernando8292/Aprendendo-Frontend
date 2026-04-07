@@ -58,7 +58,8 @@
     <!-- Div 1 -->
     <div class="box">
         <h1>Fernando Toledo de Oliveira</h1>
-![Minha foto](https://github.com/user-attachments/assets/d95ed280-4e58-4d99-bc0a-a18342f72633)
+        
+<img src="https://github.com/user-attachments/assets/d95ed280-4e58-4d99-bc0a-a18342f72633" alt="Minha foto">
 
         <!-- SUA FOTO -->
         <img src="minha-foto.jpg" alt="Foto de Fernando">
